@@ -1,4 +1,0 @@
-/vendor
-.env
-Dockerfile
-database.sqlite
